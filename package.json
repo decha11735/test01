@@ -1,0 +1,20 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Cypress project for beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "tset",
+    "open": "cypress open"
+  },
+  "keywords": [
+    "test",
+    "FB"
+  ],
+  "author": "te",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "typescript": "^4.6.3"
+  }
+}
